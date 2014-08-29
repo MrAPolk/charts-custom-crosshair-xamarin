@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShinobiF1-Project.iOS", "iOS\ShinobiF1-Project.iOS.csproj", "{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.Debug|iPhone.Build.0 = Debug|iPhone
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.Release|iPhone.ActiveCfg = Release|iPhone
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.Release|iPhone.Build.0 = Release|iPhone
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{EA540055-1B67-44E8-9DF6-1D3731ADCFD7}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = iOS\ShinobiF1-Project.iOS.csproj
+	EndGlobalSection
+EndGlobal
